@@ -59,4 +59,4 @@ http://git-annex.branchable.com/
 
 Forking on github is same as cloning in the command line.
 
-peter marsters, homer becomes fat 
+peter marsters: the one where homer becomes fat 
